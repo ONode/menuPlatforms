@@ -58,7 +58,3 @@ typings/
 .env
 .idea
 ._functions
-._public
-._main.js
-._main.css
-._index.html
